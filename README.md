@@ -1,10 +1,10 @@
-#Vrinda Store Data Analysis Interactive Dashboard using MS Excel
+Vrinda Store Data Analysis Interactive Dashboard using MS Excel
 
 ##Project Objective
 
 The Vrinda Store aims to create an annual sales report for 2024 so the owner can understand customer behavior and increase sales in 2025 and 2026.
 
-##Key Questions (KPIs)
+Key Questions (KPIs)
 1.  Compare the sales and orders using a single chart.
 2.  Which month recorded the highest sales and orders?
 3.  Who purchased more -- Men or Women?
