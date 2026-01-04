@@ -1,6 +1,6 @@
 Vrinda Store Data Analysis Interactive Dashboard using MS Excel
 
-##Project Objective
+Project Objective
 
 The Vrinda Store aims to create an annual sales report for 2024 so the owner can understand customer behavior and increase sales in 2025 and 2026.
 
@@ -17,7 +17,7 @@ Key Questions (KPIs)
 9.  Percentage of total orders delivered.
 10. Dashboard Interaction View.
 
-##Process
+Process
 
 -   Verified data for missing values and anomalies.
 -   Ensured data consistency in terms of data types, formats, and
@@ -26,7 +26,7 @@ Key Questions (KPIs)
 -   Combined all pivot tables into a single dashboard with interactive
     slicers.
 
-##Project Insights
+Project Insights
 
 -   Women purchased more than men (\~65%).
 -   Top 3 states contributing to sales: **Maharashtra, Karnataka, Uttar
@@ -35,7 +35,7 @@ Key Questions (KPIs)
 -   Maximum orders came from **Amazon, Flipkart, and Myntra**.
 -   More than **90%** of products were delivered.
 
-##Final Conclusion
+Final Conclusion
 
 To improve the sales of Vrinda Store, a focused marketing strategy targeting women aged 30–49 years in Maharashtra, Karnataka, and Uttar Pradesh should be implemented.
 This demographic is the primary consumer group and responds well to personalized promotions and targeted digital marketing campaigns.
